@@ -1,9 +1,9 @@
 {
     "name": "garoa-firefox", 
     "license": "MPL 1.1/GPL 2.0/LGPL 2.1", 
-    "author": "", 
-    "version": "0.1", 
+    "author": "Thiago A. Lechuga", 
+    "version": "0.5", 
     "fullName": "Garoa Status", 
-    "id": "jid1-AjZ190hZMr8etA", 
+    "id": "jid1-AjZ190hZrM8Ate", 
     "description": "Identificador de Status do Garoa Hacker Clube"
 }
